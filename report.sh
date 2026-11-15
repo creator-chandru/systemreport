@@ -3,7 +3,7 @@
 #--SETTINGS--
 TITLE="System Report"
 SHOW_MEMORY=yes
-SHOW_DISK=no
+SHOW_DISK=yes
 SHOW_LOAD=yes
 LABEL_COLOR='\e[32m'
 TITLE_COLOR='\e[31m'
